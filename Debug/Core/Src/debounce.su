@@ -1,0 +1,12 @@
+../Core/Src/debounce.c:15:6:Debounce_ButtonInit	24	static
+../Core/Src/debounce.c:30:6:Debounce_RegisterCallbackPress	16	static
+../Core/Src/debounce.c:35:6:Debounce_RegisterCallbackHold	16	static
+../Core/Src/debounce.c:40:6:Debounce_RegisterCallbackRepeat	16	static
+../Core/Src/debounce.c:45:6:Debounce_RegisterCallbackRelease	16	static
+../Core/Src/debounce.c:54:6:ButtonIdleRoutine	24	static
+../Core/Src/debounce.c:63:6:ButtonDebounceRoutine	24	static
+../Core/Src/debounce.c:82:6:ButtonPressedRoutine	24	static
+../Core/Src/debounce.c:96:6:ButtonHoldRoutine	24	static
+../Core/Src/debounce.c:118:6:ButtonRepeatRoutine	24	static
+../Core/Src/debounce.c:137:6:ButtonReleaseRoutine	16	static
+../Core/Src/debounce.c:152:6:Debounce_ButtonTask	16	static

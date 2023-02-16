@@ -1,0 +1,5 @@
+../Core/Src/command_parser.c:17:6:Parser_TakeLine	24	static
+../Core/Src/command_parser.c:66:6:Parser_ParseLedToggle	24	static
+../Core/Src/command_parser.c:91:6:Parser_BlinkSpeed	24	static
+../Core/Src/command_parser.c:120:6:Parser_ParseBlink	16	static
+../Core/Src/command_parser.c:138:6:Parser_Parse	24	static

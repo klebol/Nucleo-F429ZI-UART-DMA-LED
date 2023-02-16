@@ -1,0 +1,7 @@
+../Core/Src/LedDriver.c:15:6:Led_BlinkRoutine	24	static
+../Core/Src/LedDriver.c:26:6:Led_OnOff	16	static
+../Core/Src/LedDriver.c:34:6:Led_Init	24	static
+../Core/Src/LedDriver.c:49:6:Led_Routine	16	static
+../Core/Src/LedDriver.c:71:6:Led_SetLightStatus	16	static
+../Core/Src/LedDriver.c:77:6:Led_SetBlinkStatus	16	static
+../Core/Src/LedDriver.c:82:6:Led_SetBlinkDelay	16	static
